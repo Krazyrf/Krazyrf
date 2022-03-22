@@ -1,3 +1,6 @@
+steamUrl:https://steamcommunity.com/id/Krazyrf/
+
+
 -allow_third_party_software
 -frep 165 -novid -tickrate 128 +cl_updaterate 128 +cl_cmdrate 128 -preload -high +cl_interp_ratio 1 
 bind "mouse4" "use weapon_knife;use weapon_flashbang" 
