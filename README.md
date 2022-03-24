@@ -68,9 +68,9 @@
 
 <br />
 ---
-<br/>  
+### GAME-CFG 
 <!-- [![vscode](https://img.shields.io/badge/Vscode-vscode-brightgreen)](https://github.com/Krazyrf) -->
-###GAME-CFG 
+
 ```
 -allow_third_party_software
 
