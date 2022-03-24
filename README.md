@@ -104,7 +104,11 @@ ent_create planted_c4_training; ent_fire planted_c4_training ActivateSetTimerLen
      <a href="https://www.zhihu.com/people/meixiro">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/zhihu.svg"/>  
   </a
-     <a href="   https://steamcommunity.com/id/Krazyrf/">
+     <a href="https://steamcommunity.com/id/Krazyrf/">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/steam.svg"/>  
   </a
+    <a href="https://www.deviantart.com/krazyrf">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/deviantArt.svg"/>  
+  </a
+   
 </div>  
