@@ -108,7 +108,7 @@ ent_create planted_c4_training; ent_fire planted_c4_training ActivateSetTimerLen
   <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/steam.svg"/>  
   </a
     <a href="https://www.deviantart.com/krazyrf">
-  <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/deviantArt.svg"/>  
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/deviantart.svg"/>  
   </a
    
 </div>  
