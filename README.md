@@ -4,7 +4,7 @@
 <div align="center">
 <img src="https://github.com/Krazyrf/Krazyrf/blob/main/1.gif" align="left" style="width: 20%" />
 </div>  
-  
+<br/>  
 
 - Create something beautiful and valuable  
   
