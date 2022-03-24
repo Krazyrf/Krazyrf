@@ -45,7 +45,7 @@
 ***<div align="center">Like animation, games, music, classical, computer technology, and everything</div>***  
   
 
-**Video producer, Programmer, Gamer**  
+**<div align="center">Video producer, Programmer, Gamer**  
   
 
 #### ***<div align="center">FPS and Souls Like , RTS enthusiasts</div>***  
