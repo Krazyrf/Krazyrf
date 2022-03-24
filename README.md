@@ -101,17 +101,17 @@ ent_create planted_c4_training; ent_fire planted_c4_training ActivateSetTimerLen
 <div>
   <a href="https://space.bilibili.com/39703984?spm_id_from=333.1007.0.0">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/bilibili.svg"/>  
-  </a
+  
   <a href="https://www.zhihu.com/people/meixiro">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/zhihu.svg"/>  
-  </a
+  
   <a href="https://steamcommunity.com/id/Krazyrf/">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/steam.svg"/>  
-  </a
+  
   <a href="https://www.deviantart.com/krazyrf">
   <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/deviantart.svg"/>  
-  </a
+  
   <a href="https://music.163.com/#/user/home?id=1540980117">
   <img height="32" width="32" src="https://github.com/Krazyrf/Krazyrf/blob/main/1.png"/>  
-  </a
+ 
 </div>  
