@@ -2,7 +2,7 @@
 
 ### From China  
 <div align="center">
-<img src="1.gif" align="center" style="width: 100%" />
+![image](https://github.com/Krazyrf/Krazyrf/1.gif )   
 </div>  
   
 
