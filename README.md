@@ -100,6 +100,9 @@ ent_create planted_c4_training; ent_fire planted_c4_training ActivateSetTimerLen
 <div align="center">
 <a href="https://github.com/Krazyrf" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />  
-<img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/bilibili.svg" alt=https://space.bilibili.com/39703984?spm_id_from=333.1007.0.0/>
+
 </a>  
+  <a href="https://space.bilibili.com/39703984?spm_id_from=333.1007.0.0">
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@latest/icons/bilibili.svg"/>  
+  </a
 </div>  
