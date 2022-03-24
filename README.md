@@ -67,19 +67,10 @@
 </div>  
 
 <br />
-
 ---
-  ## Connect 
-<div align="center">
-<a href="https://github.com/Krazyrf" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
 <br/>  
 <!-- [![vscode](https://img.shields.io/badge/Vscode-vscode-brightgreen)](https://github.com/Krazyrf) -->
-
+###GAME-CFG 
 ```
 -allow_third_party_software
 
@@ -99,3 +90,9 @@ ent_create planted_c4_training; ent_fire planted_c4_training ActivateSetTimerLen
 
 +fps_max 210 -dev -novid +mat_letterbox_aspect_goal 0 +mat_letterbox_aspect_threshold 0 +building_cubemaps "1"  +reticle_color "50 255 800"
 ```
+  ## Connect 
+<div align="center">
+<a href="https://github.com/Krazyrf" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
