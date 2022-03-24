@@ -4,6 +4,8 @@ ASF building tutorial:https://zhuanlan.zhihu.com/p/137727498
 Bilibili:https://space.bilibili.com/39703984?spm_id_from=333.1007.0.0  
 
 ---
+https://img.shields.io/badge/Vscode-vscode-brightgreen
+
 ```
 -allow_third_party_software
 
