@@ -60,17 +60,16 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krazyrf&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
+<br/ algin="right">  
 
-<div align="center">
+<div>
 <img src="https://komarev.com/ghpvc/?username=Krazyrf&&style=flat-square" align="center" />
 </div>  
 
 <br />
----
+  
 ### GAME-CFG 
-<!-- [![vscode](https://img.shields.io/badge/Vscode-vscode-brightgreen)](https://github.com/Krazyrf) -->
-
+<div align="center">
 ```
 -allow_third_party_software
 
@@ -90,6 +89,7 @@ ent_create planted_c4_training; ent_fire planted_c4_training ActivateSetTimerLen
 
 +fps_max 210 -dev -novid +mat_letterbox_aspect_goal 0 +mat_letterbox_aspect_threshold 0 +building_cubemaps "1"  +reticle_color "50 255 800"
 ```
+  </div>
   ## Connect 
 <div align="center">
 <a href="https://github.com/Krazyrf" target="_blank">
