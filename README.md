@@ -2,7 +2,7 @@
 
 # From China  
 <div align="center">
-<img src="https://github.com/Krazyrf/Krazyrf/blob/main/1.gif" align="right" style="width: 50%" alt="Matsumae Ohana"/>
+<img src="https://github.com/Krazyrf/Krazyrf/blob/main/1.gif" align="right" style="width: 100%" alt="Matsumae Ohana"/>
 </div>  
 <br/>  
 
